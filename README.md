@@ -7,10 +7,20 @@
 </a>
 
 <br/>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-FF4F9A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-cristina-das-neves-souza-9b2b04387/)
-[![GitHub](https://img.shields.io/badge/GitHub-brendasza-D6246E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brendasza)
-[![CEFET/RJ](https://img.shields.io/badge/CEFET%2FRJ-Inform%C3%A1tica-FF85C0?style=for-the-badge&logo=academia&logoColor=white)](https://www.cefet-rj.br/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
 
 </div>
 
@@ -24,7 +34,7 @@ Participo de iniciativas como **VitalCare**, **Conecta**, **Programando em Bloco
 
 <br/>
 
-##  Foco atual
+## Foco atual
 
 | | |
 | :--- | :--- |
@@ -46,31 +56,6 @@ Participo de iniciativas como **VitalCare**, **Conecta**, **Programando em Bloco
 
 <br/>
 
-## 🛠️ Tecnologias
-
-**Front-end**
-
-![HTML5](https://img.shields.io/badge/HTML5-FF4F9A?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF4F9A?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF4F9A?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-FF4F9A?style=flat-square&logo=react&logoColor=white)
-
-**Linguagens e back-end**
-
-![Python](https://img.shields.io/badge/Python-FF4F9A?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF4F9A?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-FF4F9A?style=flat-square&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-FF4F9A?style=flat-square&logo=php&logoColor=white)
-
-**Banco de dados e ferramentas**
-
-![MySQL](https://img.shields.io/badge/MySQL-FF4F9A?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF4F9A?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FF4F9A?style=flat-square&logo=github&logoColor=white)
-![Scratch](https://img.shields.io/badge/Scratch-FF4F9A?style=flat-square&logo=scratch&logoColor=white)
-
-<br/>
-
 ## Estatísticas do GitHub
 
 <div align="center">
@@ -82,7 +67,7 @@ Participo de iniciativas como **VitalCare**, **Conecta**, **Programando em Bloco
 
 <br/>
 
-##  Vamos nos conectar?
+## Vamos nos conectar?
 
 Se quiser trocar ideias, falar sobre projetos ou propor uma colaboração, me chame no LinkedIn:
 
