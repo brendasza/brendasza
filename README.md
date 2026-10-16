@@ -16,7 +16,7 @@
 
 <br/>
 
-## 👩🏻‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante do curso técnico em **Informática no CEFET/RJ** e tenho interesse em **desenvolvimento de software, tecnologia e inovação**. Gosto de explorar ideias e criar projetos que conectam **tecnologia, educação e impacto social**.
 
@@ -24,18 +24,18 @@ Participo de iniciativas como **VitalCare**, **Conecta**, **Programando em Bloco
 
 <br/>
 
-## 🎯 Foco atual
+##  Foco atual
 
 | | |
 | :--- | :--- |
 | 🔬 **Pesquisa** | Iniciação científica, pesquisa e extensão universitária |
-| 📊 **Estudos** | Análise de dados com Python |
+| 📊 **Estudos** | Análise e tratamento de dados com Python |
 | 💻 **Prática** | Desenvolvimento web, jogos educativos e projetos colaborativos |
 | 🤝 **Colaboração** | Aberta a projetos com impacto social e educacional |
 
 <br/>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | Descrição | Área |
 | :--- | :--- | :--- |
@@ -71,7 +71,7 @@ Participo de iniciativas como **VitalCare**, **Conecta**, **Programando em Bloco
 
 <br/>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Participo de iniciativas como **VitalCare**, **Conecta**, **Programando em Bloco
 
 <br/>
 
-## 📫 Vamos nos conectar?
+##  Vamos nos conectar?
 
 Se quiser trocar ideias, falar sobre projetos ou propor uma colaboração, me chame no LinkedIn:
 
