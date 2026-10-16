@@ -1,52 +1,97 @@
-# 👩🏻‍💻 Brenda Cristina
+<div align="center">
 
-**`Estudante de Informática | Desenvolvedora em formação`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B8A9&height=220&section=header&text=Brenda%20Cristina&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Estudante%20de%20Inform%C3%A1tica%20%7C%20Desenvolvedora%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=58" alt="Banner Brenda Cristina" />
 
-Olá! Sou estudante do curso técnico em Informática no **CEFET/RJ** e tenho interesse em desenvolvimento de software, tecnologia e inovação. Gosto de explorar ideias e desenvolver projetos que conectam tecnologia, educação e impacto social.
-
-Participo de iniciativas como o **VitalCare**, o **Conecta**, o **Programando em Blocos** e o **Sociologia Digital**, unindo conhecimentos técnicos, criatividade e colaboração.
-
----
-
-### 🚀 Projetos em destaque
-
-- 💙 **VitalCare** — Aplicativo mobile para acompanhamento de indicadores de saúde.
-- 🌐 **Conecta** — Plataforma voltada à conexão entre pessoas e projetos da comunidade escolar.
-- 🌱 **Programando em Blocos** — Jogos educativos desenvolvidos no Scratch.
-- 🧩 **Sociologia Digital** — Tecnologia, impressão 3D e acessibilidade no ensino de Sociologia.
-
----
-
-### 🛠️ Linguagens e tecnologias
-
-<p align="left">
-  <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="PHP" title="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-  <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  <img alt="Scratch" title="Scratch" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scratch/scratch-original.svg"/>
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=brendasza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendasza&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas"/>
-</p>
-
----
-
-### 📫 Vamos nos conectar?
-
-<a href="https://www.linkedin.com/in/brenda-cristina-das-neves-souza-9b2b04387/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/brendasza">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=0A66C2&center=true&vCenter=true&width=640&lines=Tecnologia+%2B+Educa%C3%A7%C3%A3o+%2B+Impacto+social;Desenvolvimento+de+software+e+inova%C3%A7%C3%A3o;Em+busca+de+inicia%C3%A7%C3%A3o+cient%C3%ADfica;Interesse+em+an%C3%A1lise+de+dados+e+bioinform%C3%A1tica" alt="Frases animadas" />
 </a>
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-cristina-das-neves-souza-9b2b04387/)
+[![GitHub](https://img.shields.io/badge/GitHub-brendasza-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brendasza)
+[![CEFET/RJ](https://img.shields.io/badge/CEFET%2FRJ-Inform%C3%A1tica-00B8A9?style=for-the-badge&logo=academia&logoColor=white)](https://www.cefet-rj.br/)
+
+</div>
+
+<br/>
+
+## 👩🏻‍💻 Sobre mim
+
+Sou estudante do curso técnico em **Informática no CEFET/RJ** e tenho interesse em **desenvolvimento de software, tecnologia e inovação**. Gosto de explorar ideias e criar projetos que conectam **tecnologia, educação e impacto social**.
+
+Participo de iniciativas como **VitalCare**, **Conecta**, **Programando em Blocos** e **Sociologia Digital**, unindo conhecimento técnico, criatividade e colaboração.
+
+<br/>
+
+## 🎯 Foco atual
+
+| | |
+| :--- | :--- |
+| 🔬 **Pesquisa** | Iniciação científica, pesquisa e extensão universitária |
+| 📊 **Estudos** | Análise de dados e bioinformática com Python |
+| 💻 **Prática** | Desenvolvimento web, jogos educativos e projetos colaborativos |
+| 🤝 **Colaboração** | Aberta a projetos com impacto social e educacional |
+
+<br/>
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Área |
+| :--- | :--- | :--- |
+| 💙 **VitalCare** | Aplicativo mobile para acompanhamento de indicadores de saúde. | `Saúde` `Mobile` |
+| 🌐 **Conecta** | Plataforma que conecta pessoas e projetos da comunidade escolar. | `Comunidade` `Web` |
+| 🌱 **Programando em Blocos** | Jogos educativos desenvolvidos no Scratch. | `Educação` `Scratch` |
+| 🧩 **Sociologia Digital** | Tecnologia, impressão 3D e acessibilidade no ensino de Sociologia. | `Educação` `Acessibilidade` |
+
+<br/>
+
+## 🛠️ Tecnologias
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Linguagens e back-end**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Banco de dados e ferramentas**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white)
+
+<br/>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=brendasza&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendasza&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+
+</div>
+
+<br/>
+
+## 📫 Vamos nos conectar?
+
+Se quiser trocar ideias, falar sobre projetos ou propor uma colaboração, me chame no LinkedIn:
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Falar_comigo_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-cristina-das-neves-souza-9b2b04387/)
+
 *Transformando ideias em projetos por meio da tecnologia.* 💻✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B8A9&height=120&section=footer" alt="Rodapé" />
+
+</div>
