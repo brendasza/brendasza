@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B8A9&height=220&section=header&text=Brenda%20Cristina&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Estudante%20de%20Inform%C3%A1tica%20%7C%20Desenvolvedora%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=58" alt="Banner Brenda Cristina" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4F9A,100:FFB3D9&height=220&section=header&text=Brenda%20Cristina&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Estudante%20de%20Inform%C3%A1tica%20%7C%20Desenvolvedora%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=58" alt="Banner Brenda Cristina" />
 
 <a href="https://github.com/brendasza">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=0A66C2&center=true&vCenter=true&width=640&lines=Tecnologia+%2B+Educa%C3%A7%C3%A3o+%2B+Impacto+social;Desenvolvimento+de+software+e+inova%C3%A7%C3%A3o;Em+busca+de+inicia%C3%A7%C3%A3o+cient%C3%ADfica;Interesse+em+an%C3%A1lise+de+dados+e+bioinform%C3%A1tica" alt="Frases animadas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=FF4F9A&center=true&vCenter=true&width=640&lines=Tecnologia+%2B+Educa%C3%A7%C3%A3o+%2B+Impacto+social;Desenvolvimento+de+software+e+inova%C3%A7%C3%A3o;Em+busca+de+inicia%C3%A7%C3%A3o+cient%C3%ADfica;Interesse+em+an%C3%A1lise+de+dados" alt="Frases animadas" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-cristina-das-neves-souza-9b2b04387/)
-[![GitHub](https://img.shields.io/badge/GitHub-brendasza-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brendasza)
-[![CEFET/RJ](https://img.shields.io/badge/CEFET%2FRJ-Inform%C3%A1tica-00B8A9?style=for-the-badge&logo=academia&logoColor=white)](https://www.cefet-rj.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-FF4F9A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-cristina-das-neves-souza-9b2b04387/)
+[![GitHub](https://img.shields.io/badge/GitHub-brendasza-D6246E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brendasza)
+[![CEFET/RJ](https://img.shields.io/badge/CEFET%2FRJ-Inform%C3%A1tica-FF85C0?style=for-the-badge&logo=academia&logoColor=white)](https://www.cefet-rj.br/)
 
 </div>
 
@@ -29,7 +29,7 @@ Participo de iniciativas como **VitalCare**, **Conecta**, **Programando em Bloco
 | | |
 | :--- | :--- |
 | 🔬 **Pesquisa** | Iniciação científica, pesquisa e extensão universitária |
-| 📊 **Estudos** | Análise de dados e bioinformática com Python |
+| 📊 **Estudos** | Análise de dados com Python |
 | 💻 **Prática** | Desenvolvimento web, jogos educativos e projetos colaborativos |
 | 🤝 **Colaboração** | Aberta a projetos com impacto social e educacional |
 
@@ -39,7 +39,7 @@ Participo de iniciativas como **VitalCare**, **Conecta**, **Programando em Bloco
 
 | Projeto | Descrição | Área |
 | :--- | :--- | :--- |
-| 💙 **VitalCare** | Aplicativo mobile para acompanhamento de indicadores de saúde. | `Saúde` `Mobile` |
+| 💖 **VitalCare** | Aplicativo mobile para acompanhamento de indicadores de saúde. | `Saúde` `Mobile` |
 | 🌐 **Conecta** | Plataforma que conecta pessoas e projetos da comunidade escolar. | `Comunidade` `Web` |
 | 🌱 **Programando em Blocos** | Jogos educativos desenvolvidos no Scratch. | `Educação` `Scratch` |
 | 🧩 **Sociologia Digital** | Tecnologia, impressão 3D e acessibilidade no ensino de Sociologia. | `Educação` `Acessibilidade` |
@@ -50,24 +50,24 @@ Participo de iniciativas como **VitalCare**, **Conecta**, **Programando em Bloco
 
 **Front-end**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-FF4F9A?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF4F9A?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF4F9A?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-FF4F9A?style=flat-square&logo=react&logoColor=white)
 
 **Linguagens e back-end**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF4F9A?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FF4F9A?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-FF4F9A?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-FF4F9A?style=flat-square&logo=php&logoColor=white)
 
 **Banco de dados e ferramentas**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF4F9A?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF4F9A?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF4F9A?style=flat-square&logo=github&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-FF4F9A?style=flat-square&logo=scratch&logoColor=white)
 
 <br/>
 
@@ -75,8 +75,8 @@ Participo de iniciativas como **VitalCare**, **Conecta**, **Programando em Bloco
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=brendasza&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendasza&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=brendasza&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendasza&theme=radical&layout=compact&langs_count=8&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
 
 </div>
 
@@ -88,10 +88,10 @@ Se quiser trocar ideias, falar sobre projetos ou propor uma colaboração, me ch
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Falar_comigo_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-cristina-das-neves-souza-9b2b04387/)
+[![LinkedIn](https://img.shields.io/badge/Falar_comigo_no_LinkedIn-FF4F9A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-cristina-das-neves-souza-9b2b04387/)
 
 *Transformando ideias em projetos por meio da tecnologia.* 💻✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B8A9&height=120&section=footer" alt="Rodapé" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4F9A,100:FFB3D9&height=120&section=footer" alt="Rodapé" />
 
 </div>
